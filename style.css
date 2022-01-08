@@ -10,10 +10,6 @@
     box-sizing: border-box;
 }
 
-body {
-    background-color: gray;
-}
-
 header {
     background-color: black;
     padding: 40px;
@@ -47,25 +43,41 @@ header a:hover {
 section > p {
     font-family: cursive;
     margin-left: 30px;
+    padding-bottom: 2em;
 }
 
 section {
+    font-size: 3.5vw;
     padding-top: 10vh;
     padding-bottom: 10vh;
-    line-height: 2em;
-}
-
-section.normal {
-    background-color: rgb(245, 68, 68);
+    line-height: 10vh;
 }
 
 section.imagem {
-    background-color: yellow;
+    box-shadow: inset 6px 6px 13px 0px #000000b4;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+section.normal {
+    background-color: white
 }
 
 section.imagem > p {
-    width: 400px;
-    background-color: #41414162;
+    text-shadow: 1px 2px 0px rgba(0, 0, 0, 0.973);
+    color: white;
+    display: inline-block;
+    padding: 5px;
+    background-color: #00000086;
+}
+
+section#img01 {
+    background-image: url(imagens/background001.jpg);
+    background-position: right center;
+}
+
+section#img02{
+    background-image: url(imagens/background002.jpg);
 }
 
 footer {
