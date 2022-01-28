@@ -100,3 +100,9 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+
+@media screen and (max-width:500px) {
+    p {
+        line-height: 25px;
+    }
+}
