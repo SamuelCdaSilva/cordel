@@ -3,7 +3,7 @@ Página com um Cordel 📜 | Curso em Vídeo
 
 Projeto realizado com o objetivo de criar uma página para demonstrar o efeito parallax.
 
-Site hospedado: https://samuelcdasilva.github.io/Projeto-Cordel/cordel.html
+Site hospedado: https://samuelcdasilva.github.io/Cordel/cordel.html
 
 QR Code:
 
