@@ -1,4 +1,4 @@
-# Cordel
+# Projeto | Cordel
 SPA com um Cordel 📜
 
 Cordel são folhetos contendo poemas populares, expostos para venda pendurados em cordas ou cordéis, o que deu origem ao nome.
