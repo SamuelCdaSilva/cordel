@@ -5,7 +5,7 @@ Cordel são folhetos contendo poemas populares, expostos para venda pendurados e
 
 - Projeto realizado com o objetivo de criar uma página para demonstrar o efeito __parallax__.
 
-- Tercnologias utilizadas: __HTML5__ e __CSS3 puro__.
+- Tecnologias utilizadas: __HTML5__ e __CSS3 puro__.
 ***
 ### Situação do projeto: Finalizado :heavy_check_mark:
 ***
