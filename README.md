@@ -7,4 +7,6 @@ Cordel são folhetos contendo poemas populares, expostos para venda pendurados e
 
 - Tercnologias utilizadas: __HTML5__ e __CSS3 puro__.
 ***
+### Situação do projeto: Finalizado :heavy_check_mark:
+***
 Página hospedada em: https://samuelcdasilva.github.io/cordel/cordel.html
